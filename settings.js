@@ -1,4 +1,4 @@
-//════════════════════════════//
+8//════════════════════════════//
 //If you want to recode, reupload
 //or copy the codes/script,
 //pls give credit
@@ -55,7 +55,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['9710544517448'] //ur owner number
-global.ownername = "يوهاباخ ٫" //ur owner name
+global.ownername = "، مادارا " //ur owner name
 global.ytname = "YT: ABDUL RAHMAN" //ur yt chanel name
 global.socialm = "GitHub: ABDUL RAHMAN" //ur github or insta name
 global.location = "Egypt, Cairo, Aizawl" //ur location
@@ -69,7 +69,7 @@ global.websitex = "https://wa.me/message/BF4OZJQH5DC6G1" //ur website to be disp
 global.botscript = "https://wa.me/message/BF4OZJQH5DC6G1" //script link
 global.reactmoji = "📖" //ur menu react emoji
 global.themeemoji = "🙃" //ur theme emoji
-global.packname = "يوهاباخ" //ur sticker watermark packname
+global.packname = "مادارا" //ur sticker watermark packname
 global.author = "⍣0544517448⍣" //ur sticker watermark author
 
 //Bot theme media
