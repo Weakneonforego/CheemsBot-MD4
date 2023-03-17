@@ -54,16 +54,16 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['9710544517448'] //ur owner number
+global.vcardowner = ['971544517448'] //ur owner number
 global.ownername = "، يوهاباخ " //ur owner name
 global.ytname = "YT: ABDUL RAHMAN" //ur yt chanel name
 global.socialm = "GitHub: ABDUL RAHMAN" //ur github or insta name
 global.location = "unknown, unknown, unknown" //ur location
 
 //bot bomdy 
-global.owner = ['0544517448']
-global.ownertag = '0544517448' //ur tag number
-global.botname = 'BOT 'تيكا🦋٫' //ur bot name
+global.owner = ['971544517448']
+global.ownertag = '971544517448' //ur tag number
+global.botname = 'BOT 'الوكا🦋٫' //ur bot name
 global.linkz = "https://wa.me/message/BF4OZJQH5DC6G1" //your theme url which will be displayed on whatsapp
 global.websitex = "https://wa.me/message/BF4OZJQH5DC6G1" //ur website to be displayed
 global.botscript = "https://wa.me/message/BF4OZJQH5DC6G1" //script link
@@ -105,10 +105,10 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'أمرك سيدي  ✓',
+    success: 'أمرك جلالة الملك  ✓',
     admin:   'هذه الميزه فقط للقاده! ',
     botAdmin: 'يجب أن يكون البوت مسؤولاً أولاً!',
-    owner: 'هذه الميزة لسيدي فقط!',
+    owner: 'هذه الميزة لجلالة الملك فقط',
     group: 'لميزة تستخدم فقط للمجموعات!',
     private: 'الميزه المستخدمة فقط للدردشة الخاصة!',
     bot: 'هذه الميزة مخصصة للبوت فقط',
